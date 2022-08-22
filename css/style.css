@@ -55,7 +55,6 @@ div.nav a.active:hover:before {
 div.header {
     background-color: #233142;
     padding: 10px;
-    text-align: left;
     position: center;
 }
 
