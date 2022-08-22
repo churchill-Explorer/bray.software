@@ -1,3 +1,19 @@
+.first-color {
+    background: #233142;
+}
+
+.second-color {
+    background: #455d7a;
+}
+
+.third-color {
+    background: #f95959;
+}
+
+.fourth-color {
+    background: #e3e3e3;
+}
+
 div.nav {
     list-style-type: none;
     margin: 0;
@@ -35,6 +51,17 @@ div.nav a.active:hover:before {
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
 }
-.logo {
 
+div.header {
+    background-color: #233142;
+    padding: 10px;
+    text-align: left;
+    position: center;
+}
+
+div.header-child {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #233142;
+    border-radius: 5px;
 }
