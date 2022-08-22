@@ -14,6 +14,19 @@
     background: #e3e3e3;
 }
 
+div.header {
+    background-color: #233142;
+    padding: 10px;
+    position: center;
+}
+
+div.header-child {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #233142;
+    border-radius: 5px;
+}
+
 div.nav {
     list-style-type: none;
     margin: 0;
@@ -58,19 +71,6 @@ div.nav a.active:hover:before {
     border-right: 10px solid transparent;
 }
 
-div.header {
-    background-color: #233142;
-    padding: 10px;
-    position: center;
-}
-
-div.header-child {
-    display: inline-block;
-    text-decoration: none;
-    background-color: #233142;
-    border-radius: 5px;
-}
-
 div.footer {
     position: fixed;
     left: 0;
@@ -80,4 +80,3 @@ div.footer {
     color: white;
     text-align: center;
 }
-
