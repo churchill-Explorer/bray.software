@@ -38,10 +38,3 @@ div.nav a.active:hover:before {
 .logo {
 
 }
-.header {
-    background-color: #455d7a;
-    color: #e3e3e3;
-    padding: 10px;
-    text-align: center;
-    display: inline;
-}
