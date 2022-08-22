@@ -73,6 +73,16 @@ div.nav a.active:hover:before {
 
 div.main {
     padding: 10px;
+    position: fixed;
+}
+
+div.red-line {
+    border: 2px solid #f95959;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto;
 }
 
 body{
